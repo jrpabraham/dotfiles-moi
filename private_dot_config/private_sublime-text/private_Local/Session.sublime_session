@@ -1,0 +1,631 @@
+{
+	"file_history":
+	[
+		"/home/tala/.config/sway/config",
+		"/home/tala/.config/waybar/config.jsonc",
+		"/home/tala/.config/waybar/scripts/network.sh",
+		"/home/tala/Repos/student-reports/src/check_atest.py",
+		"/home/tala/Repos/student-reports/src/list_birthdays.py",
+		"/home/tala/.config/mimeapps.list",
+		"/home/tala/.config/ghostty/config.ghostty",
+		"/home/tala/.config/swaylock/config",
+		"/home/tala/Downloads/swaylock-everforest",
+		"/home/tala/.config/yazi/theme.toml",
+		"/home/tala/.config/alacritty/alacritty.toml",
+		"/home/tala/Downloads/everforest-dark",
+		"/home/tala/.config/alacritty/everforest_dark_hard.toml",
+		"/home/tala/.config/sway/scripts/clamshell.sh",
+		"/home/tala/Repos/student-reports/scratch.txt",
+		"/home/tala/Repos/student-reports/src/check_tuition.py",
+		"/home/tala/.config/sway/scripts/clamshell-watcher.sh",
+		"/home/tala/.config/kanshi/config",
+		"/home/tala/.bashrc",
+		"/home/tala/.config/waybar/style.css",
+		"/home/tala/.config/swaync/style.css",
+		"/home/tala/.config/waybar/scripts/untitled.shnetwork.sh",
+		"/home/tala/.config/waybar/config",
+		"/home/tala/.config/waybar/style.css.tmpl",
+		"/home/tala/Repos/sway-dots/sway/config",
+		"/home/tala/Repos/dots-hypr/.config/waybar/config",
+		"/home/tala/Repos/student-reports/Rescheduling parents for the school year",
+		"/home/tala/.themes/Everforest-Green-Dark/gtk-3.0/gtk-dark.css",
+		"/home/tala/alacritty.toml",
+		"/home/tala/Repos/sway-dots/.config/waybar/style.css"
+	],
+	"folder_history":
+	[
+		"/home/tala/Repos/student-reports",
+		"/home/tala/.config/yazi",
+		"/home/tala/.config/alacritty",
+		"/home/tala/Repos/sway-dots/dot-config",
+		"/home/tala/.config/waybar"
+	],
+	"last_version": 4200,
+	"last_window_id": 10,
+	"log_indexing": false,
+	"next_update_check": 1775421363,
+	"settings":
+	{
+		"new_window_full_screen": false,
+		"new_window_height": 418.0,
+		"new_window_maximized": false,
+		"new_window_position":
+		[
+			0.0,
+			28.0
+		],
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"too",
+						"tooltip"
+					],
+					[
+						"custom-",
+						"custom-bluetooth"
+					],
+					[
+						"--",
+						"--accent-color"
+					],
+					[
+						"border-c",
+						"border-color"
+					],
+					[
+						"bor",
+						"border-radius"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"wrap",
+						"Word Wrap: Toggle"
+					],
+					[
+						"view",
+						"View: Toggle Minimap"
+					],
+					[
+						"tab",
+						"View: Toggle Tabs"
+					],
+					[
+						"pack",
+						"Package Control: Install Package"
+					],
+					[
+						"packa",
+						"Install Package Control"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/tala/.config/sway/config",
+				"/home/tala/.config/waybar/config.jsonc",
+				"/home/tala/.config/waybar/scripts/network.sh",
+				"/home/tala/Repos/student-reports/src/check_atest.py",
+				"/home/tala/Repos/student-reports/src/list_birthdays.py",
+				"/home/tala/.config/mimeapps.list",
+				"/home/tala/.config/ghostty/config.ghostty",
+				"/home/tala/.config/swaylock/config",
+				"/home/tala/Downloads/swaylock-everforest",
+				"/home/tala/.config/yazi/theme.toml",
+				"/home/tala/.config/alacritty/alacritty.toml",
+				"/home/tala/Downloads/everforest-dark",
+				"/home/tala/.config/sway/scripts/clamshell.sh",
+				"/home/tala/Repos/student-reports/scratch.txt",
+				"/home/tala/Repos/student-reports/src/check_tuition.py",
+				"/home/tala/.config/sway/scripts/clamshell-watcher.sh",
+				"/home/tala/.config/kanshi/config",
+				"/home/tala/.bashrc",
+				"/home/tala/.config/waybar/style.css",
+				"/home/tala/.config/swaync/style.css",
+				"/home/tala/.config/waybar/scripts/untitled.shnetwork.sh",
+				"/home/tala/.config/waybar/config",
+				"/home/tala/.config/waybar/style.css.tmpl",
+				"/home/tala/Repos/sway-dots/sway/config",
+				"/home/tala/Repos/dots-hypr/.config/waybar/config",
+				"/home/tala/Repos/student-reports/Rescheduling parents for the school year",
+				"/home/tala/.themes/Everforest-Green-Dark/gtk-3.0/gtk-dark.css",
+				"/home/tala/alacritty.toml",
+				"/home/tala/Repos/sway-dots/.config/waybar/style.css"
+			],
+			"find":
+			{
+				"height": 38.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"scrollbar_highlights": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"use_gitignore": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 26.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 48.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"birth",
+						"src/list_birthdays.py"
+					],
+					[
+						"atest",
+						"src/check_atest.py"
+					],
+					[
+						"the",
+						"theme.toml"
+					],
+					[
+						"scra",
+						"scratch.txt"
+					],
+					[
+						"chec",
+						"src/check_tuition.py"
+					],
+					[
+						"sc",
+						"scratch.txt"
+					],
+					[
+						".py",
+						"src/list_birthdays.py"
+					],
+					[
+						"st",
+						"style.css"
+					],
+					[
+						"js",
+						"config.jsonc"
+					],
+					[
+						"",
+						"style.css"
+					],
+					[
+						"net",
+						"scripts/network.sh"
+					],
+					[
+						"con",
+						"config.jsonc"
+					],
+					[
+						"check",
+						"src/check_tuition.py"
+					],
+					[
+						"ate",
+						"src/check_atest.py"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": false,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": false,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 704.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"too",
+						"tooltip"
+					],
+					[
+						"custom-",
+						"custom-bluetooth"
+					],
+					[
+						"--",
+						"--accent-color"
+					],
+					[
+						"border-c",
+						"border-color"
+					],
+					[
+						"bor",
+						"border-radius"
+					]
+				]
+			},
+			"buffers":
+			[
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"wrap",
+						"Word Wrap: Toggle"
+					],
+					[
+						"view",
+						"View: Toggle Minimap"
+					],
+					[
+						"tab",
+						"View: Toggle Tabs"
+					],
+					[
+						"pack",
+						"Package Control: Install Package"
+					],
+					[
+						"packa",
+						"Install Package Control"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/home/tala/Repos/student-reports"
+			],
+			"file_history":
+			[
+				"/home/tala/.config/sway/config",
+				"/home/tala/.config/waybar/config.jsonc",
+				"/home/tala/.config/waybar/scripts/network.sh",
+				"/home/tala/Repos/student-reports/src/check_atest.py",
+				"/home/tala/Repos/student-reports/src/list_birthdays.py",
+				"/home/tala/.config/mimeapps.list",
+				"/home/tala/.config/ghostty/config.ghostty",
+				"/home/tala/.config/swaylock/config",
+				"/home/tala/Downloads/swaylock-everforest",
+				"/home/tala/.config/yazi/theme.toml",
+				"/home/tala/.config/alacritty/alacritty.toml",
+				"/home/tala/Downloads/everforest-dark",
+				"/home/tala/.config/sway/scripts/clamshell.sh",
+				"/home/tala/Repos/student-reports/scratch.txt",
+				"/home/tala/Repos/student-reports/src/check_tuition.py",
+				"/home/tala/.config/sway/scripts/clamshell-watcher.sh",
+				"/home/tala/.config/kanshi/config",
+				"/home/tala/.bashrc",
+				"/home/tala/.config/waybar/style.css",
+				"/home/tala/.config/swaync/style.css",
+				"/home/tala/.config/waybar/scripts/untitled.shnetwork.sh",
+				"/home/tala/.config/waybar/config",
+				"/home/tala/.config/waybar/style.css.tmpl",
+				"/home/tala/Repos/sway-dots/sway/config",
+				"/home/tala/Repos/dots-hypr/.config/waybar/config",
+				"/home/tala/Repos/student-reports/Rescheduling parents for the school year",
+				"/home/tala/.themes/Everforest-Green-Dark/gtk-3.0/gtk-dark.css",
+				"/home/tala/alacritty.toml",
+				"/home/tala/Repos/sway-dots/.config/waybar/style.css"
+			],
+			"find":
+			{
+				"height": 38.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"scrollbar_highlights": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"use_gitignore": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/home/tala/Repos/student-reports"
+				}
+			],
+			"groups":
+			[
+				{
+					"sheets":
+					[
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 26.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"pinned_build_system": "",
+			"position": "0,0,0,0,0,0,0,704,418,1440,900,0",
+			"project": "",
+			"replace":
+			{
+				"height": 48.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"birth",
+						"src/list_birthdays.py"
+					],
+					[
+						"atest",
+						"src/check_atest.py"
+					],
+					[
+						"the",
+						"theme.toml"
+					],
+					[
+						"scra",
+						"scratch.txt"
+					],
+					[
+						"chec",
+						"src/check_tuition.py"
+					],
+					[
+						"sc",
+						"scratch.txt"
+					],
+					[
+						".py",
+						"src/list_birthdays.py"
+					],
+					[
+						"st",
+						"style.css"
+					],
+					[
+						"js",
+						"config.jsonc"
+					],
+					[
+						"",
+						"style.css"
+					],
+					[
+						"net",
+						"scripts/network.sh"
+					],
+					[
+						"con",
+						"config.jsonc"
+					],
+					[
+						"check",
+						"src/check_tuition.py"
+					],
+					[
+						"ate",
+						"src/check_atest.py"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": false,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": false,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 10,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
